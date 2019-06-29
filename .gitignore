@@ -118,7 +118,6 @@ dmypy.json
 .idea/
 
 # others
-*.txt
 *.java
 *.xlsx
 *.xls
